@@ -1,0 +1,1 @@
+from Interpolacion import lagrange
